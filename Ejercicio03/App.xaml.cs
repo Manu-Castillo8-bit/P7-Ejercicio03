@@ -7,7 +7,7 @@ namespace Ejercicio03
         public App()
         {
             InitializeComponent();
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
        
