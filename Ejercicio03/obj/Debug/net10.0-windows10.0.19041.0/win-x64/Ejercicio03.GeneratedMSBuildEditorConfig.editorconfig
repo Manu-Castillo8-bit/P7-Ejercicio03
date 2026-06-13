@@ -77,3 +77,13 @@ build_metadata.AdditionalFiles.Inflator = SourceGen
 build_metadata.AdditionalFiles.NoWarn = 
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
+
+[C:/Users/User/Desktop/Práctica 7/Ejercicio03/Ejercicio03/Siguiente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio03.Siguiente.xaml
+build_metadata.AdditionalFiles.TargetPath = Siguiente.xaml
+build_metadata.AdditionalFiles.RelativePath = Siguiente.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 

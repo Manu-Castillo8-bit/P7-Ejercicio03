@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio03\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|Ejercicio03\\Ejercicio03.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio03\\ejercicio03\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|Ejercicio03\\Ejercicio03.csproj|solutionrelative:ejercicio03\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|Ejercicio03\\Ejercicio03.csproj|c:\\users\\user\\desktop\\pr\u00E1ctica 7\\ejercicio03\\ejercicio03\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F1DDDC5-E0A8-1823-07FE-0394AE7868DD}|Ejercicio03\\Ejercicio03.csproj|solutionrelative:ejercicio03\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio03\\Ejercicio03\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Ejercicio03\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio03\\Ejercicio03\\App.xaml.cs",
+              "RelativeToolTip": "Ejercicio03\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T03:15:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio03\\Ejercicio03\\App.xaml",
+              "RelativeDocumentMoniker": "Ejercicio03\\App.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Pr\u00E1ctica 7\\Ejercicio03\\Ejercicio03\\App.xaml",
+              "RelativeToolTip": "Ejercicio03\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-13T03:15:48.515Z",
+              "EditorCaption": ""
             }
           ]
         }
